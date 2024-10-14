@@ -16,11 +16,11 @@ You can also get all the codes of the book in [this repo](https://github.com/Pac
 Have a look at my articles on Medium, I talk about previous projects or anything I find interesting.
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Choose the Best ML Deployment Strategy: Cloud vs. Edge](https://towardsdatascience.com/how-to-choose-the-best-ml-deployment-strategy-cloud-vs-edge-7b62d9db9b20?source=rss-6c53f1364ba9------2)
 - [How to Forecast YouTube Video Revenue](https://medium.datadriveninvestor.com/how-to-forecast-youtube-video-revenue-e35c60bd1105?source=rss-6c53f1364ba9------2)
 - [BlazeFace: How to Run Real-time Object Detection in the Browser](https://towardsdatascience.com/blazeface-how-to-run-real-time-object-detection-in-the-browser-66c2ac9acd75?source=rss-6c53f1364ba9------2)
 - [How do face filters work?](https://pub.towardsai.net/how-do-face-filters-work-cea88f470149?source=rss-6c53f1364ba9------2)
 - [How to Train an Instance Segmentation Model with No Training Data](https://towardsdatascience.com/how-to-train-an-instance-segmentation-model-with-no-training-data-190dc020bf73?source=rss-6c53f1364ba9------2)
-- [Decoding Technical Interviews: A Comprehensive Guide to Choose the Right Evaluation Method](https://levelup.gitconnected.com/decoding-technical-interviews-a-comprehensive-guide-to-choose-the-right-evaluation-method-999f72dcef5e?source=rss-6c53f1364ba9------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### 📫 Connect with Me
